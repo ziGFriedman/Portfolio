@@ -1,2 +1,2 @@
 Enter in the address bar:
-https://zigfriedman.github.io/examples/"name of project"
+https://zigfriedman.github.io/"name of project"
